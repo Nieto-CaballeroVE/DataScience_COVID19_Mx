@@ -1,5 +1,5 @@
 # DataScience_COVID19_Mx
-Descripción: Análisis de estadística descriptiva sobre la evolución de la pandemia por COVID-19 en México. 
+Descripción: Análisis de estadística descriptiva sobre la evolución de la pandemia por COVID-19 en México. \n
 Autores: Diego Camacho y Victor Nieto.
 
 Desde su aparición en Wuhan, China, el virus SARS-Cov-2, se ha esparcido de manera acelerada desde diciembre del 2019, causando cuadros agudos de insuficiencia respiratoria y neumonías en todo el mundo. Al día de este escrito y con cifras de la asociación mundial de la salud (OMS), se han reportado 5.8 millones de casos alrededor del mundo, generando a su paso más de 350 mil muertes. Con importantes epicentros como Estados Unidos y Brasil, 1.6 y 500 mil contagios respectivamente, ahora América enfrenta crecimientos exponenciales de la pandemia. 
